@@ -1,0 +1,5 @@
+*.csv
+WikiTableQuestions/
+chain_of_table_pack/
+train/
+results/
